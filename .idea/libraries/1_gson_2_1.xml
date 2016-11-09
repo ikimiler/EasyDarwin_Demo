@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="1_gson-2.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/EasyPlayer/lib/gson-2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

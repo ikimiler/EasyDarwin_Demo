@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="rtspclient-release-">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/EasyPlayer/build/intermediates/exploded-aar/rtspclient-release/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/EasyPlayer/build/intermediates/exploded-aar/rtspclient-release/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

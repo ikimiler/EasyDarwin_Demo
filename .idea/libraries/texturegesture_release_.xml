@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="texturegesture-release-">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/EasyPlayer/build/intermediates/exploded-aar/texturegesture-release/res" />
+      <root url="jar://$PROJECT_DIR$/EasyPlayer/build/intermediates/exploded-aar/texturegesture-release/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
