@@ -6,5 +6,4 @@
 ### 安卓直播快速实践服务端（三） http://blog.csdn.net/qq_28268507/article/details/53099212
 ### 安卓直播快速实践综合测试（四） http://blog.csdn.net/qq_28268507/article/details/53099362
 
-## 简书 : http://www.jianshu.com/p/9f536537d705
 ## CSDN BLOG ：http://blog.csdn.net/qq_28268507
